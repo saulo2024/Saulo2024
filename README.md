@@ -119,19 +119,6 @@ Me chamo Saulo Esteves de Almeida, tenho 37 anos e sou natural do Manaus/Am. Con
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
 />
-
-<br/>
-<br/>
-
-### 📊 Estatísticas
-
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="" 
   />
 
 <img 
